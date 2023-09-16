@@ -1,8 +1,9 @@
 # qb-recycle
 Rrecycle script based on level system
 
+![Screenshot 2023-09-16 113707](https://github.com/uFLOKY/qb-recycle/assets/80961359/0160b4b6-1beb-4307-8316-f0b187eb8bcd)
 
-![Screenshot 2023-09-16 113707](https://github.com/uFLOKY/qb-recycle/assets/80961359/3ff4fb0a-950b-4deb-a343-8bcbb2ecbb3f)
+
 
 
 
