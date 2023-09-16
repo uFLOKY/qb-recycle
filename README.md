@@ -28,6 +28,8 @@ Rrecycle script based on level system
 
 3 - start qb-ui
 
+4 - start qb-recycle
+
 * SORRY NO SUPPORT 
 
 
