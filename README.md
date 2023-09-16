@@ -11,7 +11,7 @@ Rrecycle script based on level system
  
 1 - Add this to qb-core/server/player
 
-```lua
+```
     if PlayerData.metadata['recycle'] then
         PlayerData.metadata['recycle']["amount"] = PlayerData.metadata['recycle']["amount"] or 0
         PlayerData.metadata['recycle']["grade"] = PlayerData.metadata['recycle']["grade"] or 1
