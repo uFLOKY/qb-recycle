@@ -25,6 +25,11 @@ Rrecycle script based on level system
         }
     end
 ```
+* Trigger this event to open menu
+```
+TriggerEvent('qb-recycle:client:openMenu')
+```
+
 2 - start qb-info
 
 3 - start qb-ui
